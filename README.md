@@ -86,4 +86,10 @@ Possible enhancements include:
 * Adding support for other languages.
 * Implementing abstractive summarization using deep learning models.
 
+
+## 📤Output:
+
+![Image](https://github.com/user-attachments/assets/6a995878-ba4c-4f02-9a5a-8caefed41c31)
+
+
 ---
